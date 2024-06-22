@@ -9,7 +9,7 @@
 
 <ul>
     <li>
-    Solution URL: <a href="https://www.frontendmentor.io/solutions/social-links-profile-ikEQkhSJnq">Click Here!</a>
+    Solution URL: <a href="https://www.frontendmentor.io/solutions/recipe-page-8NOUkvoKCq#comment-6676baf1983369c533f7b383">Click Here!</a>
     </li>
     <li>
     Live site URL: <a href="https://social-links-profile-delta-brown.vercel.app">Click Here!</a>
